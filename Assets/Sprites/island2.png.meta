@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: ab019f2b5f6f4ff4f87312aecd521122
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2701282296595704318
+    second: island2_0
+  - first:
+      213: 6108776853237578905
+    second: island2_1
+  - first:
+      213: -9034916837776193700
+    second: island2_2
+  - first:
+      213: 399535429132049163
+    second: island2_3
+  - first:
+      213: -6737609394858390876
+    second: island2_4
+  - first:
+      213: 6211269188347467657
+    second: island2_5
+  - first:
+      213: -6424675836831227609
+    second: island2_6
+  - first:
+      213: 4865216075716392019
+    second: island2_7
+  - first:
+      213: 2177541924823397256
+    second: island2_8
+  - first:
+      213: -8621456645354922691
+    second: island2_9
+  - first:
+      213: -5697887026853394397
+    second: island2_10
+  - first:
+      213: -2568502648041209530
+    second: island2_11
+  - first:
+      213: -6189368168250711608
+    second: island2_12
+  - first:
+      213: -3626938268515315802
+    second: island2_13
+  - first:
+      213: 7924993718266637695
+    second: island2_14
+  - first:
+      213: 1516305345256505683
+    second: island2_15
+  - first:
+      213: -8837771444035423370
+    second: island2_16
+  - first:
+      213: 5081120955620455034
+    second: island2_17
+  - first:
+      213: 6942355392992780739
+    second: island2_18
+  - first:
+      213: 5249325065466809951
+    second: island2_19
+  - first:
+      213: -6310047330809767267
+    second: island2_20
+  - first:
+      213: 1359493631589778703
+    second: island2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: island2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 154
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef963aecfe1ec7520800000000000000
+      internalID: 2701282296595704318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 1331
+        height: 1139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cba5dae2cb6c450800000000000000
+      internalID: 6108776853237578905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 953
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57872d41078d9280800000000000000
+      internalID: -9034916837776193700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 944
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b59902b5f6b8500800000000000000
+      internalID: 399535429132049163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_4
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 929
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa8128e3f33f72a0800000000000000
+      internalID: -6737609394858390876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_5
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 897
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98797c70b6cd23650800000000000000
+      internalID: 6211269188347467657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 899
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a3a4ad57f6d6a0800000000000000
+      internalID: -6424675836831227609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_7
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 895
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354789c6e38b48340800000000000000
+      internalID: 4865216075716392019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 719
+        width: 76
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8837e90f7de283e10800000000000000
+      internalID: 2177541924823397256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_9
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 767
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d50370cde6a5880800000000000000
+      internalID: -8621456645354922691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_10
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 767
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328c81210f90de0b0800000000000000
+      internalID: -5697887026853394397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_11
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 699
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6418ada3378da5cd0800000000000000
+      internalID: -2568502648041209530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_12
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 697
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c16e439172fa1aa0800000000000000
+      internalID: -6189368168250711608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 598
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afcfd27cd68aadc0800000000000000
+      internalID: -3626938268515315802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 379
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d2c706ccb3bfd60800000000000000
+      internalID: 7924993718266637695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_15
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 325
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3514a038daffa0510800000000000000
+      internalID: 1516305345256505683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_16
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 309
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6737d2832bde95580800000000000000
+      internalID: -8837771444035423370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 290
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72fc849694c38640800000000000000
+      internalID: 5081120955620455034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 295
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c12adf9273385060800000000000000
+      internalID: 6942355392992780739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 200
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e04bdb55959d840800000000000000
+      internalID: 5249325065466809951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 129
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a9e2b72653e68a0800000000000000
+      internalID: -6310047330809767267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: island2_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 96
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0580594144edd210800000000000000
+      internalID: 1359493631589778703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      island2_0: 2701282296595704318
+      island2_1: 6108776853237578905
+      island2_10: -5697887026853394397
+      island2_11: -2568502648041209530
+      island2_12: -6189368168250711608
+      island2_13: -3626938268515315802
+      island2_14: 7924993718266637695
+      island2_15: 1516305345256505683
+      island2_16: -8837771444035423370
+      island2_17: 5081120955620455034
+      island2_18: 6942355392992780739
+      island2_19: 5249325065466809951
+      island2_2: -9034916837776193700
+      island2_20: -6310047330809767267
+      island2_21: 1359493631589778703
+      island2_3: 399535429132049163
+      island2_4: -6737609394858390876
+      island2_5: 6211269188347467657
+      island2_6: -6424675836831227609
+      island2_7: 4865216075716392019
+      island2_8: 2177541924823397256
+      island2_9: -8621456645354922691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
